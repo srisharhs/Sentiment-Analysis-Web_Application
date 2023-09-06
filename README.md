@@ -31,7 +31,7 @@ The Flask application which is on local host is hosted publicly on AWS Cloud usi
 The data entered by the user is visualized under various parameters visualization graphs and useful insights are drawn from the same using Excel as Data Visualization platform.
 
 # Future Enhancement
-Perform real time data visualization of reviews entered by user, show the results on the deployed page and draw overall conclusion regarding public review on the movie 
+Perform real time data visualization of reviews entered by user, show the results on the deployed page and draw overall conclusion regarding public review on the movie which can be used by movie makers and users. 
 
 
 
